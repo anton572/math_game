@@ -1,0 +1,8 @@
+{"type": "hyperbole",
+"time min spawn": 1.5,
+"time max spawn": 3,
+"speed max to min": 0.5,
+"multiplier pass": 1,
+"multiplier fail": 1,
+"multiplier score": 0.05,
+"time game": 60}
